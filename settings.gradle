@@ -1,0 +1,2 @@
+rootProject.name='UAS_MobileProg_Dicky'
+include ':app'
